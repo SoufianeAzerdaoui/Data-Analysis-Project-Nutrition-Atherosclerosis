@@ -13,9 +13,7 @@ L’objectif est d’analyser des données patients (paramètres biométriques, 
   - `Nutritional_Values_Applied_Diet_Atherosclerosis.csv` → valeurs nutritionnelles des régimes appliqués.
   - `Scoring_Results_After_Applying_Diet_Atherosclerosis.csv` → résultats après application des régimes.
 - **`notebooks/`** : Notebooks Jupyter pour les analyses exploratoires, tests statistiques et modélisations.
-- **`reports/`** : Rapports PDF synthétiques (5–10 pages).
 - **`figures/`** : Visualisations et graphiques générés.
-- **`presentations/`** : Présentation orale (slides).
 
 ---
 
@@ -80,3 +78,4 @@ L’objectif est d’analyser des données patients (paramètres biométriques, 
    ```bash
    git clone https://github.com/<username>/nutrition-atherosclerosis-analysis.git
    cd nutrition-atherosclerosis-analysis
+
