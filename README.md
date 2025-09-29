@@ -76,6 +76,8 @@ L’objectif est d’analyser des données patients (paramètres biométriques, 
 ## 📦 Installation
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/<username>/nutrition-atherosclerosis-analysis.git
+   git clone  https://github.com/SoufianeAzerdaoui/Data-Analysis-Project-Nutrition-Atherosclerosis.git
+
    cd nutrition-atherosclerosis-analysis
+
 
